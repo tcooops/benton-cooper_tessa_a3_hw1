@@ -10,6 +10,7 @@
 * HTML
 * CSS
 * SASS
+* JavaScript
 * My blood, sweat, and tears (ha!)
 
 ## Authors
