@@ -1,0 +1,47 @@
+.sidebarC { 
+        background-color: $sidebar-nav-bg-color; 
+        color: white;
+        position:relative;
+    header { 
+            position:relative;
+            background-color: $sidebar-header-bg-color;
+            height:110px; 
+            font-size:1.25rem;
+            margin:0 -15px;
+        p {
+            display:inline;
+            padding-left:10px;  
+        }
+    }
+}
+
+
+.sNav { 
+        font-size:1.45rem; 
+    ul { 
+        margin: 5px -15px 0; 
+    }
+    ul li { 
+            margin-top:13px; 
+            padding:12px 0 12px 14%; 
+        &:hover { 
+            background-color:#333; 
+            cursor:pointer; 
+            color:white; 
+        }
+    }
+    i, span { 
+        margin-right:10px;
+    }
+}
+
+.profileImg {
+    border: 3px solid white;
+}
+
+.imgText {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:12%;
+}
