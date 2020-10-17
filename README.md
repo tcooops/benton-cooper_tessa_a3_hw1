@@ -1,4 +1,4 @@
-# A3 HW1: (Gettin') SASS(y)
+# A3 HW1 & HW2: (Gettin') SASS(y) with AJAX and JSON!
 
 ## Requirements
 
